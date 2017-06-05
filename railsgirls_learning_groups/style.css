@@ -1,0 +1,14 @@
+img {
+  float: right;
+  width: auto;
+  height: 280px;
+  margin-right: 150px;
+}
+
+ul, h1, h2 {
+  margin-left: 150px;
+}
+
+p {
+  margin-left: 150px;
+}
