@@ -1,14 +1,31 @@
-img {
+img#first_picture{
   float: right;
   width: auto;
   height: 280px;
   margin-right: 150px;
 }
 
-ul, h1, h2 {
+ul, h1, h2#first_heading {
   margin-left: 150px;
 }
 
 p {
+  float: right;
+  width: 40%;
+  margin-right: 150px;
+
+}
+
+img#second_picture{
+  float:left;
+  width: auto;
+  height: 280px;
   margin-left: 150px;
+  margin-top: 90px;
+}
+
+h2#second_heading{
+  float: right;
+  width: 40%;
+  margin-right: 150px;
 }
